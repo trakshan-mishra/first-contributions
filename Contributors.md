@@ -228,6 +228,7 @@ itay-guter
 - [Endunry](https://github.com/Raqhael)
 - [Martinlwx](https://github.com/MartinLwx)
 - [Vasanti Suthar](https://github.com/vasantisuthar)
+- [Trakshan Mishra](https://github.com/trakshan-mishra)
 - [Ifra Rabbani] (https://github.com/irabba2)
 - [Aniruddha Shrikhande](https://github.com/blitzitout)
 - [zredb](https://github.com/zredb)
